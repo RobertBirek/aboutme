@@ -1,0 +1,20 @@
+site_name: Robert Birek
+site_author: Robert Birek
+site_description: Portfolio Robert Birek
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: amber
+
+copyright: © 2025 Robert Birek
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:robert.birek@op.pl
+
+nav:
+- O mnie: index.md
+- Moje Projekty:
+  - "test": projects/test/index.md
+- Help: help/index.md
