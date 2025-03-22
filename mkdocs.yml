@@ -1,12 +1,18 @@
 site_name: Robert Birek
 site_author: Robert Birek
 site_description: Portfolio Robert Birek
+
+repo_name: RobertBirek/aboutme
+repo_url: https://github.com/RobertBirek/aboutme
+
 theme:
   name: material
   palette:
     primary: blue grey
     accent: amber
-
+markdown_extensions:
+  - attr_list
+  
 copyright: © 2025 Robert Birek
 extra:
   social:
