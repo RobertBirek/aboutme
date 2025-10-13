@@ -7,7 +7,7 @@ Jestem specjalistą IT z ponad 30-letnim doświadczeniem zawodowym, w tym od 202
 
 
 </br>
-# Moje umiejętności 2
+# Moje umiejętności
 
 - **Hardware**<br>
     - Montaż, serwis, sprzedaż komputerów i peryferiów PC.
