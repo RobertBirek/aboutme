@@ -1,160 +1,144 @@
 # O mnie
 
-![Birek Robert](assets/rb.jpg){ align=left }
-Jestem specjalistą IT z ponad 30-letnim doświadczeniem zawodowym, w tym od 2024 intensywnie rozwijam się w obszarze sztucznej inteligencji oraz analizy danych. Moje mocne strony to analityczne myślenie, sumienność i dokładność. Specjalizuję się w praktycznym zastosowaniu AI, optymalizacji systemów informatycznych oraz doskonaleniu procesów IT wspierających cele biznesowe. Dzięki bogatemu doświadczeniu łączę gruntowną wiedzę techniczną z nowoczesnym podejściem do rozwoju innowacyjnych technologii.
+![Robert Birek](assets/rb.jpg){ align=left width=180 }
 
-30-letnie doświadczenie w IT umożliwia mi kompleksowe spojrzenie na rozwój technologii od administracji systemami po zaawansowaną analitykę danych i tworzenie rozwiązań opartych na sztucznej inteligencji. Skutecznie integruję swoje wieloletnie doświadczenie w IT z najnowszymi trendami technologicznymi.
+Jestem **specjalistą IT z ponad 30-letnim doświadczeniem zawodowym**, od 2024 roku intensywnie rozwijam się w obszarze **sztucznej inteligencji (AI)** oraz **analizy danych**.  
+Łączę **gruntowną wiedzę techniczną** z **nowoczesnym podejściem** do rozwoju innowacyjnych technologii, integrując klasyczne systemy IT z rozwiązaniami opartymi o **AI i automatyzację procesów**.
 
+> Moje mocne strony to analityczne myślenie, sumienność i dokładność.  
+> Specjalizuję się w praktycznym zastosowaniu AI, optymalizacji systemów informatycznych oraz doskonaleniu procesów IT wspierających cele biznesowe.
 
-</br>
-# Moje umiejętności
+---
 
-- **Hardware**<br>
-    - Montaż, serwis, sprzedaż komputerów i peryferiów PC.
-    - Projektowanie, wykonywanie i zarządzanie sieciami informatycznymi
-    - Projektowanie, wykonywanie i zarządzanie systemami CCTV 
+## Kluczowe kompetencje
 
-- **Administracja i zarządzanie sytemami**<br>
-    - Administracja systemami Microsoft Windows Server.
-    - Administracja serwerami Linux (Ubuntu)
-    - Zarządzanie infrastrukturą IT (Zabbix, GLPi)
-    - Znajomość MS Office
+- Architektura i administracja systemów IT (Windows Server, Linux, Zabbix, GLPI)  
+- Automatyzacje i integracje (n8n, webhooki, API, RPA)  
+- Sztuczna inteligencja i data science (LLM, RAG, NLP, ML)  
+- Projektowanie aplikacji webowych (FastAPI, Streamlit, Docker)  
+- E-commerce i SEO (WordPress, WooCommerce, Google Ads, Analytics)  
+- Grafika i projektowanie 2D (CorelDRAW, Photoshop, Gimp, Affinity)
 
-- **Systemy ERP**<br>
-    - Administracja i serwis systemami ERP: Insert GT
-    - Crystal Reports
+---
 
-- **Grafika 2D**<br>
-    - Corel Draw
-    - Adobe Photoshop
-    - Gimp
-    - Afinnity
+## Umiejętności techniczne
 
-- **Programowanie**<br>
-    - Python
-    - HTML
-    - CSS
-    - XML
-    - SOAP
-    - C++
-    - PHP
-    - SQL
-    - JavaScript
-    - Visual Basic (VB)
+=== "Administracja i infrastruktura"
 
-- **Bazy danych**<br>
-    - MS SQL
-    - MySQL
-    - MariaDB
-    - PostgreSQL
-    - Redis
-    - Qdrant
+- Montaż, serwis i konfiguracja sprzętu komputerowego  
+- Projektowanie i zarządzanie sieciami LAN/WAN oraz systemami CCTV  
+- Administracja Windows Server, Active Directory  
+- Administracja Linux (Ubuntu, Debian)  
+- Zarządzanie infrastrukturą IT (Zabbix, GLPI)  
 
-- **Tworzenie stron i sklepów e-comerce SEO**<br>
-    - Wordpress
-    - Joomla
-    - Woocomerce
-    - Google Tag Manager
-    - Google Search Console
-    - Google Analytics
-    - Google Ads
-    - Google Merchant
-    - Google Business Profile
+=== "Programowanie i bazy danych"
 
-- **AI**<br>
-    - Samodzielny specjalista AI & Data Science
-    - Analiza i wizualizacja danych
-    - Modelowanie predykcyjne (Machine Learning)
-    - Tworzenie aplikacji z wykorzystaniem AI
-    - Zarządzanie projektami AI
-    - Znajomość LLM: chatGPT (OpenAI), Claude (Anthropic), Grok, Gemini (Google), DeepSeek
-    - Tworzenie aplikacji AI opartych na LLM (ChatGPT, Claude, Gemini, Grok)
-    - Integracja modeli AI z aplikacjami webowymi (Streamlit, FastAPI)
-    - Projektowanie chatbotów i agentów AI z wykorzystaniem NLP i RAG
+- **Języki:** Python, HTML, CSS, JavaScript, PHP, SQL, C++, XML, SOAP, Visual Basic  
+- **Bazy danych:** MS SQL, MySQL, MariaDB, PostgreSQL, Redis, Qdrant  
+- Integracje API, automatyzacja procesów, tworzenie narzędzi developerskich  
 
-- **Poznane technologie**<br>
-    - Git
-    - Python
-    - Docker
-    - Hyper-V
-    - Fast API
-    - Streamlit
-    - MkDocs
-    - LangChain
+=== "AI i Data Science"
 
-- **Zarządzanie czasem**<br>
-    - GTD
-    - Trello
-    - Jira
-    - Kanban
-    - Obsidian   
+- Analiza i wizualizacja danych  
+- Modelowanie predykcyjne (ML, NLP, RAG)  
+- Tworzenie aplikacji AI (Streamlit, FastAPI, LangChain)  
+- Integracja modeli LLM (ChatGPT, Claude, Gemini, Grok, DeepSeek)  
+- Projektowanie chatbotów i agentów AI  
 
-</br>
+=== "E-commerce i SEO"
 
-## Dodatkowo
-- Analityczne myślenie
-- Umiejętność rozwiązywania złożonych problemów
-- Szybka adaptacja do nowych technologii
-- Odpowiedzialność
-- Dobra organizacja pracy
-- Zarządzanie zespołem
-- Pomysłowość
-- Cierpliwość
-- Zaangażowanie
-- Praca zespołowa i komunikatywność
-- Samodzielność w działaniu
-- Kreatywność i innowacyjność
-- Sumienność i dokładność
-- Ciągła chęć nauki i rozwoju
+- WordPress, WooCommerce, Joomla  
+- Google Tag Manager, Search Console, Analytics, Ads, Merchant, Business Profile  
+- Optymalizacja stron pod SEO i UX  
+- Zarządzanie treściami, kampaniami i konwersjami  
 
-</br>
-# Moje kursy
-- 2025-04: Rozpoczęty kurs - Twórz i Sprzedawaj Agentów AI od ZERA (GOTOIT Sp. z o.o.)
-- 2025-03: Rozpoczęty kurs - Pracuj w AI: Zostań Data Scientist od Zera MASTERCLASS (GOTOIT Sp. z o.o.)
-- 2024-09: Rozpoczęty kurs - Pracuj w AI: Zostań Data Scientist od Zera (GOTOIT Sp. z o.o.)
-- 2020: Google Ads (sprawny.marketing)
-- 2020: Google Analytics (sprawny.marketing)
+=== "Narzędzia i zarządzanie"
 
+- Git, Docker, Hyper-V, MkDocs  
+- Metodyki: GTD, Trello, Jira, Kanban, Obsidian  
+- Tworzenie dokumentacji technicznej i procesowej  
 
-</br>
-# Moje certyfikaty
+---
+
+## Dodatkowe atuty
+
+??? note "Kliknij, aby rozwinąć listę"
+
+    - Analityczne myślenie i umiejętność rozwiązywania złożonych problemów  
+    - Szybka adaptacja do nowych technologii  
+    - Odpowiedzialność i dobra organizacja pracy  
+    - Doświadczenie w zarządzaniu zespołem  
+    - Pomysłowość, cierpliwość, komunikatywność  
+    - Samodzielność i kreatywność  
+    - Sumienność i dokładność  
+    - Ciągła chęć nauki i rozwoju  
+
+---
+
+## Kursy i szkolenia
+
+??? info "Zrealizowane i trwające kursy"
+
+    - 2025-04 — **Twórz i Sprzedawaj Agentów AI od ZERA** *(GOTOIT Sp. z o.o.)*  
+    - 2025-03 — **Pracuj w AI: Zostań Data Scientist od Zera MASTERCLASS** *(GOTOIT Sp. z o.o.)*  
+    - 2024-09 — **Pracuj w AI: Zostań Data Scientist od Zera** *(GOTOIT Sp. z o.o.)*  
+    - 2020 — **Google Ads** *(sprawny.marketing)*  
+    - 2020 — **Google Analytics** *(sprawny.marketing)*  
+
+---
+
+## Certyfikaty
+
+??? example "W trakcie uzupełniania"
+    Planowane dodanie certyfikatów z kursów AI, Data Science oraz integracji systemów IT.
+
+---
+
+## Doświadczenie zawodowe
+
+=== "BInext Sp. z o.o. (2025 – obecnie)"
+- Stanowisko: **Specjalista IT**  
+- Zakres obowiązków: administracja systemami, automatyzacje, integracje IT, rozwój procesów AI.
+
+=== "PB EL-BUD (2009 – 2024)"
+- Stanowisko: **Specjalista IT**  
+- Zakres obowiązków: administracja systemami, integracje IT.
 - 
+=== "PHU ABACUS Robert Birek (2000 – obecnie)"
+- Właściciel i specjalista IT *(działalność zawieszona)*  
+- Kompleksowa obsługa informatyczna firm i instytucji, sieci, serwery, sprzedaż sprzętu, wdrożenia ERP.
 
-</br>
-# Moje doświadczenie zawodowe
+---
 
-- **2025 – Teraz**<br>
-    ***BInext Sp. z o.o.***<br>
-    Specjalista IT
+## Wykształcenie
 
-- **2000 – Teraz**<br>
-    ***PHU ABACUS Robert Birek***
-    (Działalność zawieszona)<br>
-    Specjalista IT
+??? note "Kliknij, aby rozwinąć szczegóły"
 
-# Ukończone szkoły
-- **2000 – 2007**<br>
-    ***WSiZ w Rzeszowie***
-    - Licencjat i Magister - sici komputerowe
+    **2000 – 2007**  
+    *Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie*  
+    Licencjat i Magister – *sieci komputerowe*  
 
-- **1998 – 2000**<br>
-    ***Studium Informatyczne w Krakowie***
-    - Technik informatyk
+    **1998 – 2000**  
+    *Studium Informatyczne w Krakowie*  
+    Technik informatyk  
 
-- **1994 – 1998**<br>
-    ***Liceum Ekonomiczne w Sanoku***
-    - Technik Ekonomista 
+    **1994 – 1998**  
+    *Liceum Ekonomiczne w Sanoku*  
+    Technik ekonomista  
 
-# Prawo jazdy
-    - A, B
+---
 
-# Języki
-- Język angielski - B2
+## Inne informacje
 
-# Hobby
-- Sport, sztuki walki (Karate 1 DAN)
-- Muzyka, gra na gitarze
+| Kategoria       | Szczegóły |
+|------------------|-----------|
+| **Prawo jazdy**  | A, B |
+| **Języki**       | Angielski – B2 |
+| **Hobby**        | Sport i sztuki walki *(Karate, 1 DAN)*, muzyka i gra na gitarze |
 
+---
 
-# RODO
-Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawąz dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem ParlamentuEuropejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danychosobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).Wyrażam zgodę na przetwarzanie moich danych osobowych w zakresie przyszłych procesów rekrutacyjnych
+## Klauzula RODO
+
+> Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji  
+> (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych, Dz.U. 2018 poz. 1000, oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych).
