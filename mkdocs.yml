@@ -4,6 +4,7 @@ site_description: "Portfolio Robert Birek — projekty IT, automatyzacja, AI, e-
 
 repo_name: RobertBirek/aboutme
 repo_url: https://github.com/RobertBirek/aboutme
+edit_uri: "edit/main/docs/"
 
 theme:
   name: material
@@ -24,23 +25,34 @@ theme:
     - content.action.edit
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - toc:
+      permalink: true
   
-copyright: © 2025 Robert Birek
+copyright: "© 2025 Robert Birek. Wszelkie prawa zastrzeżone."
 extra:
   social:
-    - icon: fontawesome/solid/phone
-      link: tel:783924008
+    - icon: fontawesome/brands/github
+      link: https://github.com/RobertBirek
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/robertbirek/
     - icon: fontawesome/solid/envelope
       link: mailto:robert@birek.online
+    - icon: fontawesome/solid/phone
+      link: tel:+48783924008
 
 nav:
-- O mnie: index.md
-- Moje Projekty:
-  - Obecne:
-    - "www.taxbell.pl": projects/wwwtaxbell/index.md
-    - "www.taxlonga.pl": projects/wwwtaxlonga/index.md
-    - "Song2Me": projects/song2me/index.md
-  - Poprzednie:
-    - "Iris": projects/iris/index.md
-    - "Run4oyu": projects/run4you/index.md
-- Kontakt: kontakt.md
+  - O mnie: index.md
+  - Moje Projekty:
+    - Obecne:
+      - www.taxbell.pl: projects/wwwtaxbell/index.md
+      - www.taxlonga.pl: projects/wwwtaxlonga/index.md
+      - Song2Me: projects/song2me/index.md
+    - Archiwalne:
+      - Iris: projects/iris/index.md
+      - Run4You: projects/run4you/index.md
+  - Kontakt: kontakt.md
