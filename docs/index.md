@@ -23,6 +23,7 @@ Jestem **specjalistą IT z ponad 30-letnim doświadczeniem zawodowym**, od 2024 
 
 ## Umiejętności techniczne
 
+
 === "Administracja i infrastruktura"
 
     - Montaż, serwis i konfiguracja sprzętu komputerowego  
@@ -57,6 +58,7 @@ Jestem **specjalistą IT z ponad 30-letnim doświadczeniem zawodowym**, od 2024 
     - Git, Docker, Hyper-V, MkDocs  
     - Metodyki: GTD, Trello, Jira, Kanban, Obsidian  
     - Tworzenie dokumentacji technicznej i procesowej  
+
 
 ---
 
