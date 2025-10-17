@@ -11,6 +11,8 @@ Chętnie porozmawiam o Twoim projekcie — najlepiej technicznie, konkretnie i z
 - **GitHub:** [@RobertBirek](https://github.com/RobertBirek)
 - **LinkedIn:** [linkedin.com/in/robertbirek](https://www.linkedin.com/in/robertbirek/)
 
+---
+
 [Wyślij e-mail](mailto:robert@birek.online){ .md-button }
 [Zadzwoń](tel:+48783924008){ .md-button }
 [GitHub](https://github.com/RobertBirek){ .md-button }
