@@ -25,38 +25,38 @@ Jestem **specjalistą IT z ponad 30-letnim doświadczeniem zawodowym**, od 2024 
 
 === "Administracja i infrastruktura"
 
-- Montaż, serwis i konfiguracja sprzętu komputerowego  
-- Projektowanie i zarządzanie sieciami LAN/WAN oraz systemami CCTV  
-- Administracja Windows Server, Active Directory  
-- Administracja Linux (Ubuntu, Debian)  
-- Zarządzanie infrastrukturą IT (Zabbix, GLPI)  
+    - Montaż, serwis i konfiguracja sprzętu komputerowego  
+    - Projektowanie i zarządzanie sieciami LAN/WAN oraz systemami CCTV  
+    - Administracja Windows Server, Active Directory  
+    - Administracja Linux (Ubuntu, Debian)  
+    - Zarządzanie infrastrukturą IT (Zabbix, GLPI)  
 
 === "Programowanie i bazy danych"
 
-- **Języki:** Python, HTML, CSS, JavaScript, PHP, SQL, C++, XML, SOAP, Visual Basic  
-- **Bazy danych:** MS SQL, MySQL, MariaDB, PostgreSQL, Redis, Qdrant  
-- Integracje API, automatyzacja procesów, tworzenie narzędzi developerskich  
+    - **Języki:** Python, HTML, CSS, JavaScript, PHP, SQL, C++, XML, SOAP, Visual Basic  
+    - **Bazy danych:** MS SQL, MySQL, MariaDB, PostgreSQL, Redis, Qdrant  
+    - Integracje API, automatyzacja procesów, tworzenie narzędzi developerskich  
 
 === "AI i Data Science"
 
-- Analiza i wizualizacja danych  
-- Modelowanie predykcyjne (ML, NLP, RAG)  
-- Tworzenie aplikacji AI (Streamlit, FastAPI, LangChain)  
-- Integracja modeli LLM (ChatGPT, Claude, Gemini, Grok, DeepSeek)  
-- Projektowanie chatbotów i agentów AI  
+    - Analiza i wizualizacja danych  
+    - Modelowanie predykcyjne (ML, NLP, RAG)  
+    - Tworzenie aplikacji AI (Streamlit, FastAPI, LangChain)  
+    - Integracja modeli LLM (ChatGPT, Claude, Gemini, Grok, DeepSeek)  
+    - Projektowanie chatbotów i agentów AI  
 
 === "E-commerce i SEO"
 
-- WordPress, WooCommerce, Joomla  
-- Google Tag Manager, Search Console, Analytics, Ads, Merchant, Business Profile  
-- Optymalizacja stron pod SEO i UX  
-- Zarządzanie treściami, kampaniami i konwersjami  
+    - WordPress, WooCommerce, Joomla  
+    - Google Tag Manager, Search Console, Analytics, Ads, Merchant, Business Profile  
+    - Optymalizacja stron pod SEO i UX  
+    - Zarządzanie treściami, kampaniami i konwersjami  
 
 === "Narzędzia i zarządzanie"
 
-- Git, Docker, Hyper-V, MkDocs  
-- Metodyki: GTD, Trello, Jira, Kanban, Obsidian  
-- Tworzenie dokumentacji technicznej i procesowej  
+    - Git, Docker, Hyper-V, MkDocs  
+    - Metodyki: GTD, Trello, Jira, Kanban, Obsidian  
+    - Tworzenie dokumentacji technicznej i procesowej  
 
 ---
 
@@ -97,16 +97,19 @@ Jestem **specjalistą IT z ponad 30-letnim doświadczeniem zawodowym**, od 2024 
 ## Doświadczenie zawodowe
 
 === "BInext Sp. z o.o. (2025 – obecnie)"
-- Stanowisko: **Specjalista IT**  
-- Zakres obowiązków: administracja systemami, automatyzacje, integracje IT, rozwój procesów AI.
+
+    - Stanowisko: **Specjalista IT**  
+    - Zakres obowiązków: administracja systemami, automatyzacje, integracje IT, rozwój procesów AI.
 
 === "PB EL-BUD (2009 – 2024)"
-- Stanowisko: **Specjalista IT**  
-- Zakres obowiązków: administracja systemami, integracje IT.
-- 
+
+    - Stanowisko: **Specjalista IT**  
+    - Zakres obowiązków: administracja systemami, integracje IT.
+
 === "PHU ABACUS Robert Birek (2000 – obecnie)"
-- Właściciel i specjalista IT *(działalność zawieszona)*  
-- Kompleksowa obsługa informatyczna firm i instytucji, sieci, serwery, sprzedaż sprzętu, wdrożenia ERP.
+
+    - Właściciel i specjalista IT *(działalność zawieszona)*  
+    - Kompleksowa obsługa informatyczna firm i instytucji, sieci, serwery, sprzedaż sprzętu, wdrożenia ERP.
 
 ---
 
@@ -134,7 +137,7 @@ Jestem **specjalistą IT z ponad 30-letnim doświadczeniem zawodowym**, od 2024 
 |------------------|-----------|
 | **Prawo jazdy**  | A, B |
 | **Języki**       | Angielski – B2 |
-| **Hobby**        | Sport i sztuki walki *(Karate, 1 DAN)*, muzyka i gra na gitarze |
+| **Hobby**        | Sport i sztuki walki *(Karate, 1 DAN)* |
 
 ---
 
