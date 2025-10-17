@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Birek;Robert;;;
+FN:Robert Birek
+EMAIL;TYPE=INTERNET,PREF:robert@birek.online
+TEL;TYPE=CELL,VOICE:+48 783 924 008
+URL:https://robert.birek.online
+END:VCARD
